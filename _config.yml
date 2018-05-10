@@ -13,8 +13,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://annilla.github.io
-root: /hexo-theme-practice/public/
+url: https://annilla.github.io/hexo-theme-practice
+root: /public/
 permalink: :title/
 permalink_defaults:
 
