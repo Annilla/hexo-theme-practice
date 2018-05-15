@@ -15,13 +15,13 @@ input[type="reset"],
 input[type="button"],
 button,
 .button {
-  border: solid 2px #585858 !important; }
+  border: solid 2px #ffffff !important; }
   input[type="submit"]:hover,
   input[type="reset"]:hover,
   input[type="button"]:hover,
   button:hover,
   .button:hover {
-    border-color: #f2849e !important; }
+    border-color: #F43B47 !important; }
   input[type="submit"].special,
   input[type="reset"].special,
   input[type="button"].special,

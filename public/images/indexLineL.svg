@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 421.2 102" style="enable-background:new 0 0 421.2 102;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#495AFF;}
+	.st2{fill:#F43B47;}
+	.st3{fill:url(#SVGID_2_);}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="43.2012" y1="101.9998" x2="44.2012" y2="101.9998" gradientTransform="matrix(120.3295 0 0 1 -5090.5088 -96.9929)">
+	<stop  offset="0" style="stop-color:#F43B47"/>
+	<stop  offset="1" style="stop-color:#495AFF"/>
+</linearGradient>
+<path class="st0" d="M107.9,10h120.3c2.8,0,5-2.2,5-5c0-2.8-2.2-5-5-5H107.9c-2.8,0-5,2.2-5,5C102.9,7.8,105.1,10,107.9,10"/>
+<path class="st1" d="M288.6,35H135.9c-2.8,0-5-2.2-5-5s2.2-5,5-5h152.7c2.8,0,5,2.2,5,5S291.4,35,288.6,35z"/>
+<path class="st2" d="M94.3,35H5c-2.8,0-5-2.2-5-5s2.2-5,5-5h89.3c2.8,0,5,2.2,5,5S97.1,35,94.3,35z"/>
+<circle id="Oval" class="st2" cx="74.2" cy="5" r="5"/>
+<circle id="Oval-Copy" class="st1" cx="312.2" cy="31" r="5"/>
+<circle id="Oval-Copy-2" class="st2" cx="112.2" cy="31" r="5"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="43.2012" y1="101.9998" x2="44.2012" y2="101.9998" gradientTransform="matrix(120.3295 0 0 1 -4986.5088 -30.9929)">
+	<stop  offset="0" style="stop-color:#F43B47"/>
+	<stop  offset="1" style="stop-color:#495AFF"/>
+</linearGradient>
+<path class="st3" d="M211.9,76h120.3c2.8,0,5-2.2,5-5c0-2.8-2.2-5-5-5H211.9c-2.8,0-5,2.2-5,5C206.9,73.8,209.1,76,211.9,76"/>
+<path class="st1" d="M392.6,101H239.9c-2.8,0-5-2.2-5-5s2.2-5,5-5h152.7c2.8,0,5,2.2,5,5S395.4,101,392.6,101z"/>
+<path class="st2" d="M198.3,101H109c-2.8,0-5-2.2-5-5s2.2-5,5-5h89.3c2.8,0,5,2.2,5,5S201.1,101,198.3,101z"/>
+<circle id="Oval_1_" class="st2" cx="178.2" cy="71" r="5"/>
+<circle id="Oval-Copy_1_" class="st1" cx="416.2" cy="97" r="5"/>
+<circle id="Oval-Copy-2_1_" class="st2" cx="216.2" cy="97" r="5"/>
+</svg>
